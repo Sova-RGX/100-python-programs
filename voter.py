@@ -6,3 +6,4 @@ try:
         print("Not eligible to cast vote!")
 except ValueError:
     print("Please enter a valid number.")
+print("VOTER AGE PROGRAMM RUNS SUCESSFULLY !")
